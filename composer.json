@@ -1,0 +1,21 @@
+{
+  "name": "huntedcow/moralis",
+  "description": "Simple PHP library for interacting with Moralis (https://moralis.io/)",
+  "keywords": ["log","logging"],
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Andrew Mulholland",
+      "email": "andrew@huntedcow.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1"
+  },
+  "autoload": {
+    "psr-0": {
+      "HuntedCow": "src/"
+    }
+  }
+}
